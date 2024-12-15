@@ -37,7 +37,7 @@ Exploratory Data Analysis (EDA):
 
 **Recommendations:**
 
-Proposed strategies like wellness programs and flexible work arrangements, projected to reduce attrition rates from 16% to 10%.
+Proposed strategies like wellness programs and flexible work arrangements, projected to reduce attrition rates from 16% to 10%, relying solely on the monetary factor.
 
 **Key Findings:**
 
